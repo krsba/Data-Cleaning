@@ -1,0 +1,6 @@
+Code Book For Final_Dataset.txt
+
+The Final_Dataset.txt contains Mean for an observation value for a particular type of activity for a particular test subject. The data set has 7 variable.First variable gives the ID of the subject and the next 6 variable contain the mean of observation for a particular activity.
+
+1 "SubjectID" 2 "LAYING" 3 "SITTING" 4 "STANDING"
+5 "WALKING" 6 "WALKING_DOWNSTAIRS" 7 "WALKING_UPSTAIRS"
